@@ -1,7 +1,7 @@
-streamlit==1.31.1
-requests==2.31.0
-beautifulsoup4==4.12.3
-tldextract==5.1.1
-urllib3==2.0.7
-lxml==4.9.4
-python-socks==2.4.0
+streamlit
+requests
+beautifulsoup4
+lxml
+tldextract
+urllib3
+py-socks
